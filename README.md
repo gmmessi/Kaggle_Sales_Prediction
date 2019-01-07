@@ -1,4 +1,8 @@
 # Kaggle_Sales_Prediction
+
+In the project, I used data provided by Dr. Durai to predict sales of 192 products based on different methods including tree based models - regression tree, regression tree after pruning, bootsing, bagging, random forest, linear regression using ridge and lasso, forward model selection, neural network, MARS, KNN....
+
+## data description
 This repository includes the production information of 24 grocery stores and the codes of different model to predict sales of prodcuts.
 
 Following are the product categories:
@@ -10,4 +14,3 @@ For each of the above listed product categories, weekly data were collected on t
 Each row in the data represents a week.
 Numeric values that are part of the variable names indicate the product categories. For example, P1, PR1, D1, F1, and Y1 represent price, promotion, display, feature, and sales, respectively of carbonated beverage.
 
-The models used including tree based models - regression tree, regression tree after pruning, bootsing, bagging, random forest, linear regression using ridge and lasso, forward model selection, neural network, MARS, KNN....
